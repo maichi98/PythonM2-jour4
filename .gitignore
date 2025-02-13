@@ -173,3 +173,8 @@ preparing_data_TP.ipynb
 # Data zip : 
 data_TP.zip
 
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual documents (for VS Code/Jupyter extensions)
+.virtual_documents/
